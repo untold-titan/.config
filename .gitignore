@@ -1,0 +1,30 @@
+Code/
+autostart/
+Android Open Source Project/
+Code - OSS/
+dconf/
+discord/
+Electron/
+gh/
+GitKraken/
+gnome-session/
+go/
+gtk-3.0/
+ibus/
+JetBrains/
+kde.org
+kitty/
+lxqt/
+pulse/
+session/
+yay/
+nwg-panel/exectutors
+nwg-panel/icons_color
+nwg-panel/icons_dark
+nwg-panel/icons_light 
+trashrc
+dolphinrc
+baloofilerc
+baloofileinformationrc
+mimeapps.list
+.gsd-keyboard.settings-ported

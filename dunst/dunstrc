@@ -1,0 +1,7 @@
+[global]
+width = (0,300)
+height = (0,50)
+frame_width = 0
+origin = top-center
+background = "#021231"
+corner_radius = 15
